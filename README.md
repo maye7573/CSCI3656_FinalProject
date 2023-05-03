@@ -4,7 +4,7 @@
 Manoj Yeddanapudy, Matthew Labay, Nolan Ales
 
 ### Link to Project Proposal: 
-[(insert)](https://docs.google.com/document/d/1j70vSKdYw3WiG-DKHieNjvpvh9BEpO4ytWMTUiovGHY/edit?usp=sharing)
+[Proposal](https://docs.google.com/document/d/1j70vSKdYw3WiG-DKHieNjvpvh9BEpO4ytWMTUiovGHY/edit?usp=sharing)
 
 #### Link to Project Overview Video: 
 (insert)
